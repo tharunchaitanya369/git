@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 tharun+ snowflake+ commit+change1+change2
+=======
+tharun+ snowflake+ commit3
+
+>>>>>>> branch1
